@@ -9,6 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1319-unique-number-of-occurrences) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
