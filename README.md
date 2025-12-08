@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/RinkuSoni7/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/RinkuSoni7/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
