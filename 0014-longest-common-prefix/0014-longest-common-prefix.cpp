@@ -1,17 +1,66 @@
+class TrieNode {
+public:
+    TrieNode* children[26];
+    bool isTerminal;
+    int childCount;
+
+    TrieNode() {
+        for (int i = 0; i < 26; i++)
+            children[i] = nullptr;
+        isTerminal = false;
+        childCount = 0;
+    }
+};
+
+class Trie {
+public:
+    TrieNode* root;
+
+    Trie() {
+        root = new TrieNode();
+    }
+
+    void insert(const string& word) {
+        TrieNode* curr = root;
+
+        for (char ch : word) {
+            int index = ch - 'a';
+            if (curr->children[index] == nullptr) {
+                curr->children[index] = new TrieNode();
+                curr->childCount++;
+            }
+            curr = curr->children[index];
+        }
+        curr->isTerminal = true;
+    }
+
+    string getLCP() {
+        string ans = "";
+        TrieNode* curr = root;
+
+        while (curr && curr->childCount == 1 && curr->isTerminal == false) {
+            for (int i = 0; i < 26; i++) {
+                if (curr->children[i]) {
+                    curr = curr->children[i];
+                    ans.push_back('a' + i);
+                    break;
+                }
+            }
+        }
+        return ans;
+    }
+};
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        string ans="";
-        for(int i=0; i<strs[0].length(); i++){
-            for(int j=0; j<strs.size()-1; j++){
-                if(strs[j][i] != strs[j+1][i]) return ans;
-                    
-            }
-        
-            ans+=strs[0][i];
-            
+        if (strs.empty()) return "";
+
+        Trie trie;
+        for (string& s : strs) {
+            trie.insert(s);
         }
-        return ans;
-        
+
+        return trie.getLCP();
     }
 };
