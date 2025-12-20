@@ -1,14 +1,15 @@
 class Solution {
 public:
-bool issafe(int row,int col,vector<vector<char>>& board,char val){
+bool issafe(int row,int col,vector<vector<char>>& board,int val){
+    char ch=val+'0';
     for(int i=0; i<board.size(); i++){
-        if(board[row][i]==val)
+        if(board[row][i]==ch)
         return false;
         
-        if(board[i][col]==val)
+        if(board[i][col]==ch)
         return false;
 
-        if(board[3*(row/3)+i/3][3*(col/3)+i%3]==val)
+        if(board[3*(row/3)+i/3][3*(col/3)+i%3]==ch)
         return false;
 
     
@@ -21,9 +22,9 @@ bool issafe(int row,int col,vector<vector<char>>& board,char val){
         for(int row=0; row<n; row++){
             for(int col=0; col<n; col++){
                 if(board[row][col]=='.'){
-                    for(char val='1'; val<='9'; val++){
+                    for(int val=1; val<=9; val++){
                         if(issafe(row,col,board,val)){
-                            board[row][col]=val;
+                            board[row][col]=char(val +'0');
                             bool aagekasol= solve(board);
                             if(aagekasol){
                             return true;
