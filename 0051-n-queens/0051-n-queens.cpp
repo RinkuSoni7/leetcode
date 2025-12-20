@@ -1,26 +1,7 @@
 class Solution {
 public:
-bool check(int n,vector<string> &Board,int i,int j){
-    int row=i,col=j;
-    while(row>-1 && col>-1){
-        if(Board[row][col]=='Q'){
-            return 0;
-        }
-        row--, col--;
-    }
 
-    row=i, col=j;
-    while(row>-1 && col<n){
-        if(Board[row][col]=='Q'){
-            return 0;
-    }
-    row--, col++;
-    
-}
-return 1;
-}
-
-void find(int row,int n,vector<vector<string>>&ans,vector<string>&Board,vector<bool>&coloumn){
+void find(int row,int n,vector<vector<string>>&ans,vector<string>&Board,vector<bool>&coloumn,vector<int>&leftdig,vector<int>&rightdig){
 
     if(row==n){
         ans.push_back(Board);
@@ -29,12 +10,19 @@ void find(int row,int n,vector<vector<string>>&ans,vector<string>&Board,vector<b
 
     for(int j=0; j<n; j++){
 
-    if(coloumn[j]==0 && check(n,Board,row,j)){
+    if(coloumn[j]==0 && leftdig[n-1+j-row]==0 && rightdig[row+j]==0){
         coloumn[j]=1;
         Board[row][j]='Q';
-        find(row+1,n, ans, Board, coloumn);
+        leftdig[n-1+j-row]=1;
+        rightdig[row+j]=1;
+        find(row+1,n, ans, Board, coloumn,leftdig,rightdig);
         coloumn[j]=0;
         Board[row][j]='.';
+        leftdig[n-1+j-row]=0;
+        rightdig[row+j]=0;
+
+
+
     }
     }
 }
@@ -48,9 +36,11 @@ void find(int row,int n,vector<vector<string>>&ans,vector<string>&Board,vector<b
         for(int i=0; i<n; i++)
         for(int j=0; j<n; j++)
         Board[i].push_back('.');
+        vector<int>leftdig(2*n-1);
+        vector<int>rightdig(2*n-1);
         vector<bool>coloumn(n,0);
 
-        find(0,n,ans,Board,coloumn);
+        find(0,n,ans,Board,coloumn,leftdig,rightdig);
         return ans;
 
     
