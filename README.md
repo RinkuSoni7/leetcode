@@ -189,4 +189,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RinkuSoni7/leetcode/tree/master/0044-wildcard-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
