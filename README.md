@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RinkuSoni7/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RinkuSoni7/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RinkuSoni7/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
