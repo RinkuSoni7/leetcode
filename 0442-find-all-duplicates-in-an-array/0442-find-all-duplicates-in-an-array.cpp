@@ -6,13 +6,12 @@ public:
         for(int num : nums){
             count[num]++;
         }
-        for(int i=1; i<count.size(); i++){
+        for(int i=0; i<count.size(); i++){
             if(count[i]==2){
                 ans.push_back(i);
             }
         }
         return ans;
-
         
     }
 };
