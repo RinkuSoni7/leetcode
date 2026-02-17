@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        vector<int>count(20001,0);
+        unordered_map<int,int>freq;
         for(int num : arr){
-            count[num+1000]++;
+            freq[num]++;
         }
 
-        sort(count.begin(),count.end());
+        unordered_set<int>s;
 
-        for(int i=0; i<count.size()-1; i++){
-            if(count[i]!=0 && count[i]==count[i+1]){
-                return false;
-            }
+        for(auto &it : freq){
+            if(s.count(it.second))
+            return false;
+
+            s.insert(it.second);
         }
         return true;
-       
     }
 };
