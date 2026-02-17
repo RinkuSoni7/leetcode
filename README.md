@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RinkuSoni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/RinkuSoni7/leetcode/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RinkuSoni7/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RinkuSoni7/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
