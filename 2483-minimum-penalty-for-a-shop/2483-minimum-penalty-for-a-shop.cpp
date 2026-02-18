@@ -16,10 +16,10 @@ public:
         
         for (int i = 0; i < n; i++) {
             
-            if (customers[i] == 'Y')
-                penalty--;    
+            if (customers[i] == 'N')
+                penalty++;   
             else
-                penalty++;     
+                penalty--;  
             
             if (penalty < minPenalty) {
                 minPenalty = penalty;
