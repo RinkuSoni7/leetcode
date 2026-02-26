@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RinkuSoni7/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RinkuSoni7/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Memoization
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0258-add-digits) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
