@@ -13,7 +13,7 @@ public:
                 wordcount[ch-'a']++;
             }
 
-            bool ok=true;
+            bool ok = true;
 
             for(int i=0; i<26; i++){
                 if(wordcount[i]>charcount[i]){
