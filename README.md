@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RinkuSoni7/leetcode/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RinkuSoni7/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RinkuSoni7/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RinkuSoni7/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
