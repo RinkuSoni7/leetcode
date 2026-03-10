@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RinkuSoni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/RinkuSoni7/leetcode/tree/master/1046-last-stone-weight) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RinkuSoni7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RinkuSoni7/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RinkuSoni7/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RinkuSoni7/leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
