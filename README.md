@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RinkuSoni7/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RinkuSoni7/leetcode/tree/master/0189-rotate-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
