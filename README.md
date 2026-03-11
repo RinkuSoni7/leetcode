@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RinkuSoni7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RinkuSoni7/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RinkuSoni7/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
