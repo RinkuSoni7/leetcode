@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RinkuSoni7/leetcode/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/RinkuSoni7/leetcode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RinkuSoni7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RinkuSoni7/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RinkuSoni7/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RinkuSoni7/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/RinkuSoni7/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
