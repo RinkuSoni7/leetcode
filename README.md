@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RinkuSoni7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/RinkuSoni7/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2906-construct-product-matrix](https://github.com/RinkuSoni7/leetcode/tree/master/2906-construct-product-matrix) |
 | [3046-split-the-array](https://github.com/RinkuSoni7/leetcode/tree/master/3046-split-the-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RinkuSoni7/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RinkuSoni7/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RinkuSoni7/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/RinkuSoni7/leetcode/tree/master/2906-construct-product-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/RinkuSoni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RinkuSoni7/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2906-construct-product-matrix](https://github.com/RinkuSoni7/leetcode/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
