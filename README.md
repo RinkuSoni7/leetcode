@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RinkuSoni7/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RinkuSoni7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/RinkuSoni7/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2906-construct-product-matrix](https://github.com/RinkuSoni7/leetcode/tree/master/2906-construct-product-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RinkuSoni7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Counting
 |  |
 | ------- |
