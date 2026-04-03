@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RinkuSoni7/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/RinkuSoni7/leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/RinkuSoni7/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/RinkuSoni7/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RinkuSoni7/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RinkuSoni7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RinkuSoni7/leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/RinkuSoni7/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RinkuSoni7/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RinkuSoni7/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0113-path-sum-ii) |
