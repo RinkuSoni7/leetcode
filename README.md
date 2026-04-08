@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RinkuSoni7/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/RinkuSoni7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/RinkuSoni7/leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/RinkuSoni7/leetcode/tree/master/0796-rotate-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RinkuSoni7/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/RinkuSoni7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/RinkuSoni7/leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0908-middle-of-the-linked-list) |
