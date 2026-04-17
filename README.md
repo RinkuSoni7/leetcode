@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RinkuSoni7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RinkuSoni7/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RinkuSoni7/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RinkuSoni7/leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/RinkuSoni7/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RinkuSoni7/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RinkuSoni7/leetcode/tree/master/0231-power-of-two) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/RinkuSoni7/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RinkuSoni7/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
