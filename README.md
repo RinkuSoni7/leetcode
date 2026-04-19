@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RinkuSoni7/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/RinkuSoni7/leetcode/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
