@@ -6,15 +6,22 @@ void solve(vector<int>& candidates, int target,int index,vector<vector<int>>& an
         return;
     }
 
-    if(index>=n || target<0) return;
+    if(target<0) return;
 
-    solve(candidates,target,index+1,ans,temp,n);
+    // solve(candidates,target,index+1,ans,temp,n);
 
 
-     temp.push_back(candidates[index]);
+    //  temp.push_back(candidates[index]);
 
-    solve(candidates,target-candidates[index],index,ans,temp,n);
+    // solve(candidates,target-candidates[index],index,ans,temp,n);
+    // temp.pop_back();
+
+for(int i=index; i<n; i++){
+    temp.push_back(candidates[i]);
+    solve(candidates,target-candidates[i],i,ans,temp,n);
     temp.pop_back();
+}
+    
 
 
     
