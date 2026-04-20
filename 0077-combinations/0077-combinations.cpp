@@ -7,12 +7,19 @@ void solve(int start,vector<vector<int>>&ans,vector<int>&temp,int &n,int k){
         return;
     }
 
-    if(start>n) return;
+    // if(start>n) return;
 
-    temp.push_back(start);
-    solve(start+1,ans,temp,n,k-1);
+    // temp.push_back(start);
+    // solve(start+1,ans,temp,n,k-1);
+    // temp.pop_back();
+    // solve(start+1,ans,temp,n,k);
+
+    for(int i=start; i<=n; i++){
+    temp.push_back(i);
+    solve(i+1,ans,temp,n,k-1);
     temp.pop_back();
-    solve(start+1,ans,temp,n,k);
+
+    }
 
 
 
