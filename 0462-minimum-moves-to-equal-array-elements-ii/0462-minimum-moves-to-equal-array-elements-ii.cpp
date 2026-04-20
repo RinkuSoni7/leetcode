@@ -1,28 +1,18 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        int start=0;
+        int end=n-1;
+        int count=0;
 
-        int i = 0;
-        int count = 0;
+        while(start<=end){
+            count+=abs(nums[end]-nums[start]);
+            start++;
+            end--;
 
-        int mid = n / 2;
-
-        while (i < n) {
-            if (nums[i] < nums[mid]) {
-                count += nums[mid] - nums[i];
-            }
-            else if (nums[i] > nums[mid]) {
-                count += nums[i] - nums[mid];
-            }
-            else {
-                count += 0;
-            }
-
-            i++;
         }
-
         return count;
     }
 };
