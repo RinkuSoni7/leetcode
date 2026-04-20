@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RinkuSoni7/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/RinkuSoni7/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RinkuSoni7/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RinkuSoni7/leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RinkuSoni7/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Memoization
