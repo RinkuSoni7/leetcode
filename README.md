@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RinkuSoni7/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RinkuSoni7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/RinkuSoni7/leetcode/tree/master/0242-valid-anagram) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/RinkuSoni7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RinkuSoni7/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RinkuSoni7/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/RinkuSoni7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/RinkuSoni7/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/RinkuSoni7/leetcode/tree/master/0980-unique-paths-iii) |
