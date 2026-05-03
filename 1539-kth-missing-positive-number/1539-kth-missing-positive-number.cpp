@@ -5,19 +5,23 @@ public:
         int num=1;
         int i=0;
 
-        while(i<n && k>0){
+        for(int i=0; i<n;){
+            
             if(arr[i]==num){
                 i++;
             }else{
                 k--;
+                if(k==0) return num;
+                }
+                num++;
             }
-            num++;
-            
-        }
+
         while(k--){
             num++;
         }
 
-            return num-1;
+        return num-1;
+
+        
     }
 };
