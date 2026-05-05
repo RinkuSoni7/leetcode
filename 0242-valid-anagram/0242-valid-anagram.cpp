@@ -1,19 +1,26 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int>count(26,0);
+        vector<int>freq(26,0);
+        vector<int>freq1(26,0);
+
         for(char &ch : s){
-            count[ch-'a']++;
+            freq[ch-'a']++;
         }
+
         for(char &ch : t){
-            count[ch-'a']--;
+            freq1[ch-'a']++;
         }
-        bool allzeros=all_of(begin(count),end(count),[](int element){
 
-        return  element==0;
-        });
-    
-    return allzeros;
+        for(int i=0; i<26; i++){
+            if(freq[i]!=freq1[i]){
+                return false;
+            }
+        }
+
+        return true;
+
+
+
     }
-
 };
