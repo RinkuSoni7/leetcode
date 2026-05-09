@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RinkuSoni7/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RinkuSoni7/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RinkuSoni7/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RinkuSoni7/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/RinkuSoni7/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/RinkuSoni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RinkuSoni7/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
