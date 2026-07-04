@@ -25,10 +25,10 @@ int getlength(ListNode*head){
         int sum=getlength(head);
 
         if(n==sum){
-            ListNode*temp=head->next;
-            delete(head);
+            // ListNode*temp=head->next;
+            // delete(head);
 
-            return temp;
+            return head->next;
 
         }
 
