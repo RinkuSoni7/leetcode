@@ -12,17 +12,22 @@ public:
         if(head==NULL){
             return false;
         }
-        unordered_map<ListNode*,bool>mp;
+        ListNode*slow=head;
+        ListNode*fast=head;
 
-        ListNode*temp=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            
 
-        while(temp!=NULL){
-            if(mp.find(temp)!=mp.end()){
+            if(slow==fast){
                 return true;
             }
-            mp[temp]=true;
-            temp=temp->next;
+
+
         }
         return false;
+
+
     }
 };
