@@ -16,17 +16,24 @@ public:
         }
 
         ListNode*curr=head;
+        ListNode*prev=NULL;
 
         while(curr->next!=NULL){
             if(curr->val==curr->next->val){
-                ListNode*temp=curr->next->next;
-                ListNode*nodetodelete=curr->next;
-                delete(nodetodelete);
-                curr->next=temp;
+        ListNode*temp=curr->next->next;
+        ListNode*todelete=curr->next;
+        delete (todelete);
+
+        // curr->next=NULL;
+        curr->next=temp;
+
             }else{
                 curr=curr->next;
             }
         }
         return head;
+
+
+    
     }
 };
