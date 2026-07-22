@@ -1,45 +1,48 @@
 class Solution {
 public:
-int kadanemax(vector<int>& nums,int n){
+int kadansmaxsum(vector<int>& nums,int n){
     int sum=0;
-    int maxi=INT_MIN;
+    int ans=INT_MIN;
     for(int i=0; i<n; i++){
         sum+=nums[i];
-        maxi=max(maxi,sum);
+        ans=max(ans,sum);
+
         if(sum<0) sum=0;
     }
-    return maxi;
+    return ans;
 }
 
-int kadanemin(vector<int>& nums,int n){
+
+int kadansminsum(vector<int>& nums,int n){
     int sum=0;
-    int mini=INT_MAX;
+    int ans=INT_MAX;
     for(int i=0; i<n; i++){
         sum+=nums[i];
-        mini=min(mini,sum);
+        ans=min(ans,sum);
+
         if(sum>0) sum=0;
     }
-    return mini;
+    return ans;
 }
-
+    
     int maxSubarraySumCircular(vector<int>& nums) {
         int n=nums.size();
 
         int sum=0;
+
         for(int i=0; i<n; i++){
             sum+=nums[i];
         }
 
-        int maxsum=kadanemax(nums,n);
+        int maxisum=kadansmaxsum(nums,n);
+        int minisum=kadansminsum(nums,n);
 
-        int minsum=kadanemin(nums,n);
+        int circular_sum=sum-minisum;
 
-        int circularsum=sum-minsum;
-
-        if(maxsum>0){
-            return max(maxsum,circularsum);
+        if(maxisum>0){
+            return max(maxisum,circular_sum);
         }else{
-            return maxsum;
+            return maxisum;
         }
 
         
