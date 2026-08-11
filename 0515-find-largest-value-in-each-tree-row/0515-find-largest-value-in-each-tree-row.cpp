@@ -15,28 +15,28 @@ public:
         if(root==NULL){
             return {};
         }
+
         queue<TreeNode*>q;
         q.push(root);
-        vector<int>result;
+        vector<int>ans;
         while(!q.empty()){
             int n=q.size();
             int maxi=INT_MIN;
             while(n--){
-            TreeNode*temp=q.front();
-            q.pop();
-            maxi=max(maxi,temp->val);
-            if(temp->left){
-                q.push(temp->left);
-            }
-            if(temp->right){
-                q.push(temp->right);
-            }
-            }
-            result.push_back(maxi);
+                TreeNode*temp=q.front();
+                q.pop();
+                maxi=max(maxi,temp->val);
 
+                if(temp->left){
+                    q.push(temp->left);
+                }
+                 if(temp->right){
+                    q.push(temp->right);
+                }
+            }
+            ans.push_back(maxi);
 
         }
-        return result;
-        
+        return ans;
     }
 };
