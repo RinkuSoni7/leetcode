@@ -11,27 +11,10 @@
  */
 class Solution {
 public:
-bool onetree(TreeNode*&root){
-    if(root==NULL){
-        return false;
-    }
-    if(root->val==1){
-        return true;
-    }
 
-    return onetree(root->left) || onetree(root->right);
-}
     TreeNode* pruneTree(TreeNode* root) {
         if(root==NULL){
             return NULL;
-        }
-
-        if(!onetree(root->left)){
-           root->left = NULL;
-        }
-
-        if(!onetree(root->right)){
-          root->right = NULL;
         }
 
         root->left=pruneTree(root->left);
