@@ -11,25 +11,28 @@
  */
 class Solution {
 public:
-void solve(TreeNode* &root,int current,int &sum){
+void solve(TreeNode* root,int current,int &sum){
     if(root==NULL){
-        return;
+        return ;
     }
 
-current=current*10+root->val;
+    current=current*10+root->val;
 
-if(root->left==NULL && root->right==NULL){
-    sum+=current;
-}
+    if(root->left==NULL && root->right==NULL){
+        sum+=current;
+    }
+    solve(root->left,current,sum);
+    solve(root->right,current,sum);
 
-solve(root->left,current,sum);
-solve(root->right,current,sum);
+
 
 
 }
     int sumNumbers(TreeNode* root) {
+      
         int sum=0;
         solve(root,0,sum);
         return sum;
+
     }
 };
