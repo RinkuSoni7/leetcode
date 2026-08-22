@@ -29,17 +29,7 @@ public:
             return false;
         }
 
-        if ((p->left != NULL && q->left == NULL) ||
-            (p->left == NULL && q->left != NULL)) {
-            return false;
-        }
-
         
-        if ((p->right != NULL && q->right == NULL) ||
-            (p->right == NULL && q->right != NULL)) {
-            return false;
-        }
-
         
        return isSameTree(p->left, q->left) &&
                isSameTree(p->right, q->right);
