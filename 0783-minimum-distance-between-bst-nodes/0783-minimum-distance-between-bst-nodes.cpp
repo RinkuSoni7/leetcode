@@ -11,28 +11,30 @@
  */
 class Solution {
 public:
-void inorder(TreeNode* root,vector<int>&ans){
-    if(root==NULL)
-    return;
+void solve(TreeNode*root,int &ans,int &prev){
+    if(root==NULL){
+        return;
+    }
 
-    inorder(root->left,ans);
-    ans.push_back(root->val);
-    inorder(root->right,ans);
+    solve(root->left,ans,prev);
+    if(prev!=INT_MIN){
+        ans=min(ans,root->val-prev);
+
+    }
+
+    prev=root->val;
+
+    solve(root->right,ans,prev);
 
 }
     int minDiffInBST(TreeNode* root) {
-        vector<int>ans;
+        int ans=INT_MAX;
+        int prev=INT_MIN;
 
-        inorder(root,ans);
+        solve(root,ans,prev);
 
-        int mn=INT_MAX;
-        
+        return ans;
 
-        for(int i=1; i<ans.size(); i++){
-            
-            mn=min(mn,ans[i]-ans[i-1]);
-        }
 
-        return mn;
     }
 };
