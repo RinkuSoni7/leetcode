@@ -1,34 +1,35 @@
 class Solution {
 public:
 
-    TreeNode* insert(TreeNode* root, int val) {
+    TreeNode* solve(vector<int>& preorder, int& idx, int lower, int upper) {
 
-      
-        if (root == NULL) {
-            return new TreeNode(val);
-        }
+        if (idx >= preorder.size())
+            return NULL;
 
-   
-        if (val < root->val) {
-            root->left = insert(root->left, val);
-        }
+    
+        if (preorder[idx] < lower || preorder[idx] > upper)
+            return NULL;
+
+        TreeNode* root = new TreeNode(preorder[idx]);
 
         
-        else {
-            root->right = insert(root->right, val);
-        }
+        idx++;
+
+ 
+        root->left = solve(preorder, idx, lower, root->val);
+
+      
+        root->right = solve(preorder, idx, root->val, upper);
 
         return root;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
 
-        TreeNode* root = NULL;
+        int lower = INT_MIN;
+        int upper = INT_MAX;
+        int idx = 0;
 
-        for (int i = 0; i < preorder.size(); i++) {
-            root = insert(root, preorder[i]);
-        }
-
-        return root;
+        return solve(preorder, idx, lower, upper);
     }
 };
