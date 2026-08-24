@@ -11,49 +11,50 @@
  */
 class Solution {
 public:
-
-    class info {
+class info{
     public:
-        int maxi;
-        int mini;
-        bool isBST;
-        int sum;
-    };
+    int maxi;
+    int mini;
+    bool isbst;
+    int sum;
 
-    info solve(TreeNode* root, int &ans){
-        if(root == NULL){
-            return {INT_MIN, INT_MAX, true, 0};
-        }
+};
 
-        info left = solve(root->left, ans);
-        info right = solve(root->right, ans);
+info solve(TreeNode*root,int &ans){
+    if(root==NULL) return {INT_MIN,INT_MAX,true,0};
 
-        info curr;
+    info left=solve(root->left,ans);
+    info right=solve(root->right,ans);
 
-        // check BST condition
-        if(left.isBST && right.isBST &&
-           root->val > left.maxi && root->val < right.mini){
+    info curr;
 
-            curr.isBST = true;
-            curr.sum = left.sum + right.sum + root->val;
-            curr.maxi = max(root->val, right.maxi);
-            curr.mini = min(root->val, left.mini);
+    if(left.isbst && right.isbst && 
+    root->val > left.maxi && root->val <right.mini){
+        curr.maxi=max(root->val,right.maxi);
+        curr.mini=min(root->val,left.mini);
+        curr.isbst=true;
 
-            ans = max(ans, curr.sum);   // 🔥 update max sum
-        }
+        curr.sum=left.sum+right.sum+root->val;
+
+        ans=max(ans,curr.sum);
+
+    }
         else{
-            curr.isBST = false;
+            curr.isbst = false;
             curr.sum = 0; // important
             curr.maxi = INT_MAX;
             curr.mini = INT_MIN;
         }
 
         return curr;
-    }
+
+
+}
 
     int maxSumBST(TreeNode* root) {
-        int ans = 0;
-        solve(root, ans);
-        return ans;
+int ans=0;
+solve(root,ans);
+return ans;
+        
     }
 };
