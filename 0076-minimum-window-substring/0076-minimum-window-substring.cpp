@@ -9,19 +9,19 @@ public:
         }
 
         int i=0,j=0,ans=INT_MAX;
-        int count=t.size();
-        // int count=0;
+        int k=t.size();
+        int count=0;
         int start=0;
 
         while(j<n){
 
             if(mp[s[j]]>0){
-                count--;
+                count++;
             }
 
             mp[s[j]]--;
 
-            while(count==0){
+            while(count==k){
                 if(j-i+1 <ans){
                     ans=j-i+1;
                     start=i;
@@ -29,7 +29,7 @@ public:
 
                 mp[s[i]]++;
                 if(mp[s[i]]>0){
-                    count++;
+                    count--;
                 }
                 i++;
             }
