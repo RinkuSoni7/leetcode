@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/RinkuSoni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/RinkuSoni7/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/RinkuSoni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/RinkuSoni7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/RinkuSoni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
