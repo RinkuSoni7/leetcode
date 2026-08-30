@@ -15,11 +15,9 @@ public:
             freq[s[right]]++;
 
           
-            maxFreq = 0;
-
-            for (auto it : freq) {
-                maxFreq = max(maxFreq, it.second);
-            }
+           
+                maxFreq = max(maxFreq, freq[s[right]]);
+            
 
             int windowSize = right - left + 1;
             int replacements = windowSize - maxFreq;
@@ -30,12 +28,6 @@ public:
                 left++;
 
                 
-                maxFreq = 0;
-
-                for (auto it : freq) {
-                    maxFreq = max(maxFreq, it.second);
-                }
-
                 windowSize = right - left + 1;
                 replacements = windowSize - maxFreq;
             }
