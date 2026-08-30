@@ -12,30 +12,34 @@ public:
 
         while (right < s.length()) {
 
-            
             freq[s[right]]++;
 
-            // Maximum frequency
-            maxFreq = max(maxFreq, freq[s[right]]);
+          
+            maxFreq = 0;
 
-            // Current window size
+            for (auto it : freq) {
+                maxFreq = max(maxFreq, it.second);
+            }
+
             int windowSize = right - left + 1;
-
-            // Characters that need replacement
             int replacements = windowSize - maxFreq;
 
-            // Window invalid hai
             while (replacements > k) {
 
                 freq[s[left]]--;
-
                 left++;
+
+                
+                maxFreq = 0;
+
+                for (auto it : freq) {
+                    maxFreq = max(maxFreq, it.second);
+                }
 
                 windowSize = right - left + 1;
                 replacements = windowSize - maxFreq;
             }
 
-            // Answer update
             ans = max(ans, right - left + 1);
 
             right++;
