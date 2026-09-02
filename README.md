@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RinkuSoni7/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RinkuSoni7/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RinkuSoni7/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/RinkuSoni7/leetcode/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RinkuSoni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Enumeration
@@ -649,10 +653,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
