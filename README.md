@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RinkuSoni7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RinkuSoni7/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RinkuSoni7/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/RinkuSoni7/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RinkuSoni7/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/RinkuSoni7/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RinkuSoni7/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/RinkuSoni7/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/RinkuSoni7/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RinkuSoni7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RinkuSoni7/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/RinkuSoni7/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/RinkuSoni7/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
