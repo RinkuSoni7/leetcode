@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RinkuSoni7/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RinkuSoni7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RinkuSoni7/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/RinkuSoni7/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/RinkuSoni7/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RinkuSoni7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RinkuSoni7/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RinkuSoni7/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Depth-First Search
 |  |
@@ -679,4 +683,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
