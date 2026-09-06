@@ -4,27 +4,23 @@ public:
         int n=s.length();
         int count=0;
         stack<char>st;
-        for(char ch : s){
-            if(st.empty()){
-                count++;
+        for(char &ch : s){
+            if(ch=='('){
                 st.push(ch);
-                
+                count++;
             }
-            else if(ch=='('){
-                count++;
+            else if(st.empty()){
                 st.push(ch);
-                
+                count++;
             }
             else if(st.top()!='('){
-                 count++;
-                    st.push(ch);
-                   
-                }
-                else{
-                    count--;
-                    st.pop();
-                }
-            
+                st.push(ch);
+                count++;
+            }
+            else{
+                st.pop();
+                count--;
+            }
         }
         return count;
     }
