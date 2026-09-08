@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/RinkuSoni7/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/RinkuSoni7/leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RinkuSoni7/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RinkuSoni7/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/RinkuSoni7/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
