@@ -5,7 +5,7 @@ bool solve(string &s,string &p,int i,int j,vector<vector<int>> &dp){
     if(i>=0 && j<0) return false;
 
     if(i<0 && j>=0){
-        for(int k=0; k<j; k++){
+        for(int k=0; k<=j; k++){
             if(p[k]!='*'){
                 return false;
             }
