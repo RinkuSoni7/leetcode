@@ -8,12 +8,12 @@ public:
             if(nums[i]==nums[i-1]){
                 freq++;
             }
-            else if(nums[i]!=nums[i-1]){
-                freq=0;
+            else{
+                freq=1;
                 ans=nums[i];
 
             }
-            else if(freq>n/2){
+             if(freq>n/2){
                 return ans;
             }
             
