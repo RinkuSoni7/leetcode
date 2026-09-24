@@ -4,22 +4,31 @@ public:
         int n=s1.length();
         int m=s2.length();
 
-        if(n>m){
-            return false;
+        vector<int>freq1(26,0);
+        vector<int>freq2(26,0);
+
+        for(char &ch : s1){
+            freq1[ch-'a']++;
         }
 
-        sort(begin(s1),end(s1));
+        int i=0,j=0;
 
-        for(int i=0; i<=m-n; i++){
-            string temp=s2.substr(i,n);
+        while(j<m){
+            freq2[s2[j]-'a']++;
 
-            sort(begin(temp),end(temp));
+            while(j-i+1>n){
+                freq2[s2[i]-'a']--;
+                i++;
+            }
 
-            if(temp==s1){
+
+            if(freq1==freq2){
                 return true;
             }
+            j++;
         }
-return false;
+
+        return false;
         
     }
 };
