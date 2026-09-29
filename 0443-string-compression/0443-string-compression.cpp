@@ -2,36 +2,31 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         int n=chars.size();
-
-        int index=0;
-        
+        vector<pair<char,int>>result;
         int i=0;
-
         while(i<n){
-
-        int count=0;
-        char curr=chars[i];
-
-
-            while(i<n && chars[i]==curr){
-                count++;
+            char ch=chars[i];
+            int count=0;
+            while(i<n && chars[i]==ch){
                 i++;
+                count++;
             }
+            result.push_back({ch,count});
+        }
+        int index=0;
+        for(auto&it : result){
+            chars[index++]=it.first;
 
-            chars[index]=curr;
-            index++;
+            if(it.second>1){
+                    string num=to_string(it.second);
+                
 
-            if(count>1){
-                string count_str=to_string(count);
-                for(char &ch : count_str){
-                    chars[index]=ch;
-                    index++;
+                for(auto&ch :num){
+                    chars[index++]=ch;
                 }
-            }
-
+        }
         }
 
-return index;
-
+        return index;
     }
 };
