@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/RinkuSoni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/RinkuSoni7/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RinkuSoni7/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3046-split-the-array](https://github.com/RinkuSoni7/leetcode/tree/master/3046-split-the-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RinkuSoni7/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RinkuSoni7/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/RinkuSoni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/RinkuSoni7/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RinkuSoni7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
