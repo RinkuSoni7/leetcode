@@ -1,26 +1,18 @@
 class Solution {
 public:
-bool allcapitals(string word){
+bool check(string word,char s,char e){
     for(char&ch : word){
-        if(ch <'A' || ch >'Z'){
+        if(ch < s || ch > e){
             return false;
         }
     }
     return true;
 }
 
-bool allsmall(string word){
-    for(char&ch : word){
-        if(ch <'a' || ch >'z'){
-            return false;
-        }
-    }
-    return true;
-}
 
 
     bool detectCapitalUse(string word) {
-        if(allcapitals(word) || allsmall(word) || allsmall(word.substr(1))){
+        if(check(word,'A','Z') || check(word,'a','z') || check(word.substr(1),'a','z')){
             return true;
         }
         return false;
