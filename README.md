@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RinkuSoni7/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/RinkuSoni7/leetcode/tree/master/0509-fibonacci-number) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/RinkuSoni7/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RinkuSoni7/leetcode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RinkuSoni7/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/RinkuSoni7/leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/RinkuSoni7/leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -767,9 +770,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
