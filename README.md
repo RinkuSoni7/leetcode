@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RinkuSoni7/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RinkuSoni7/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RinkuSoni7/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RinkuSoni7/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RinkuSoni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/RinkuSoni7/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RinkuSoni7/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RinkuSoni7/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3046-split-the-array](https://github.com/RinkuSoni7/leetcode/tree/master/3046-split-the-array) |
 ## Dynamic Programming
