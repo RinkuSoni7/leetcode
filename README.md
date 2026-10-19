@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RinkuSoni7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/RinkuSoni7/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RinkuSoni7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RinkuSoni7/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/RinkuSoni7/leetcode/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RinkuSoni7/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/RinkuSoni7/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/RinkuSoni7/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RinkuSoni7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/RinkuSoni7/leetcode/tree/master/0020-valid-parentheses) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RinkuSoni7/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/RinkuSoni7/leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/RinkuSoni7/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/RinkuSoni7/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0070-climbing-stairs) |
