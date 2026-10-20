@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RinkuSoni7/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RinkuSoni7/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RinkuSoni7/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RinkuSoni7/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RinkuSoni7/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/RinkuSoni7/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
@@ -787,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/RinkuSoni7/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
