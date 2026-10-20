@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/RinkuSoni7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RinkuSoni7/leetcode/tree/master/0735-asteroid-collision) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/RinkuSoni7/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RinkuSoni7/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/RinkuSoni7/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RinkuSoni7/leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RinkuSoni7/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -796,4 +800,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
