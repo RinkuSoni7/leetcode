@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RinkuSoni7/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/RinkuSoni7/leetcode/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1095-find-in-mountain-array](https://github.com/RinkuSoni7/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RinkuSoni7/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/RinkuSoni7/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/RinkuSoni7/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RinkuSoni7/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/RinkuSoni7/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/RinkuSoni7/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/RinkuSoni7/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RinkuSoni7/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RinkuSoni7/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/RinkuSoni7/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/RinkuSoni7/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RinkuSoni7/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RinkuSoni7/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RinkuSoni7/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/RinkuSoni7/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1048-longest-string-chain](https://github.com/RinkuSoni7/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/RinkuSoni7/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
