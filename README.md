@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/RinkuSoni7/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RinkuSoni7/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RinkuSoni7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/RinkuSoni7/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RinkuSoni7/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/RinkuSoni7/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RinkuSoni7/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RinkuSoni7/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/RinkuSoni7/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Math
 |  |
 | ------- |
