@@ -10,10 +10,13 @@ public:
             return dp[idx][target];
         }
 
-        int take = solve(nums, target - nums[idx], 0, dp);
-        int notake = solve(nums, target, idx + 1, dp);
+        int result=0;
+        for(int i=idx; i<nums.size(); i++){
+           int take=solve(nums,target-nums[i],0,dp);
+            result+=take;
+        }
 
-        return dp[idx][target] = take + notake;
+        return dp[idx][target] = result;
     }
 
     int combinationSum4(vector<int>& nums, int target) {
