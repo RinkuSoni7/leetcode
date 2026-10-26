@@ -1,37 +1,40 @@
 class Solution {
 public:
-bool ispalindrome(string &s,int l,int r){
-    while(l<r){
-        if(s[l]!=s[r]){
-            return false;
-        }
-        l++,r--;
+bool palindrome(string s,int i,int j){
+    if(i>=j) return true;
+
+    if(s[i]==s[j]){
+        return palindrome(s,i+1,j-1);
     }
-    return true;
+
+    return false;
 }
-void solve(string s,int idx,vector<vector<string>>&ans,vector<string>curr){
+void solve(string s,vector<vector<string>>&result, vector<string>curr,int idx){
     if(idx==s.length()){
-        ans.push_back(curr);
+        result.push_back(curr);
+
+        return;
     }
 
     for(int i=idx; i<s.length(); i++){
-        if(ispalindrome(s,idx,i)){
+        if(palindrome(s,idx,i)){
             curr.push_back(s.substr(idx,i-idx+1));
-            solve(s,i+1,ans,curr);
+            solve(s,result,curr,i+1);
             curr.pop_back();
-
         }
     }
 }
-
     vector<vector<string>> partition(string s) {
-        
+        int n=s.length();
 
-        vector<vector<string>>ans;
+        vector<vector<string>>result;
         vector<string>curr;
 
-        solve(s,0,ans,curr);
-        return ans;
+        solve(s,result,curr,0);
+
+        return result;
+
+        
         
     }
 };
