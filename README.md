@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/RinkuSoni7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RinkuSoni7/leetcode/tree/master/0735-asteroid-collision) |
