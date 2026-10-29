@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RinkuSoni7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/RinkuSoni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/RinkuSoni7/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RinkuSoni7/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RinkuSoni7/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RinkuSoni7/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/RinkuSoni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/RinkuSoni7/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/RinkuSoni7/leetcode/tree/master/0141-linked-list-cycle) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RinkuSoni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/RinkuSoni7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RinkuSoni7/leetcode/tree/master/0547-number-of-provinces) |
 ## Tree
