@@ -7,35 +7,10 @@
  *     int length();
  * };
  */
- int binary(MountainArray &mountainArr,int s,int e,int target){
-    while(s<=e){
-        int mid=s+(e-s)/2;
-        if(mountainArr.get(mid)==target){
-            return mid;
-        }else if(mountainArr.get(mid)<target){
-            s=mid+1;
-        }else{
-            e=mid-1;
-        }
-    }
-    return -1;
- }
 
-int reversebinary(MountainArray &mountainArr,int s,int e,int target){
-    while(s<=e){
-        int mid=s+(e-s)/2;
-        if(mountainArr.get(mid)==target){
-            return mid;
-        }else if(mountainArr.get(mid)<target){
-            e=mid-1;
-        }else{
-            s=mid+1;
-        }
-    }
-    return -1;
- }
-
- int peakindex(MountainArray &mountainArr){
+class Solution {
+public:
+int peakindex(MountainArray &mountainArr){
     int n=mountainArr.length();
     int s=0,e=n-1;
     while(s<e){
@@ -48,33 +23,49 @@ int reversebinary(MountainArray &mountainArr,int s,int e,int target){
     }
     return s;
  }
+int binary(int target, MountainArray &mountainArr,int s,int e){
+    while(s<=e){
+        int mid=s+(e-s)/2;
+        if(mountainArr.get(mid)==target){
+            return mid;
+        }
+        else if(mountainArr.get(mid)>target){
+            e=mid-1;
+        }else{
+            s=mid+1;
+        }
+    }
+    return -1;
+}
 
-class Solution {
-public:
+int reversebinary(int target, MountainArray &mountainArr,int s,int e){
+    while(s<=e){
+        int mid=s+(e-s)/2;
+        if(mountainArr.get(mid)==target){
+            return mid;
+        }
+        else if(mountainArr.get(mid)>target){
+            s=mid+1;
+        }else{
+            e=mid-1;
+        }
+    }
+    return -1;
+}
+
+
+
+
     int findInMountainArray(int target, MountainArray &mountainArr) {
+        int n=mountainArr.length();
 
-    int n=mountainArr.length();
-        
         int idx=peakindex(mountainArr);
 
-        int result=binary(mountainArr,0,idx,target);
+        int result=binary(target,mountainArr,0,idx);
         if(result!=-1){
             return result;
         }
-
-
-        int result1=reversebinary(mountainArr,idx+1,n-1,target);
-
+        int result1=reversebinary(target,mountainArr,idx+1,n-1);
         return result1;
-
-        
-
-
-
-
-
-
-
-
     }
 };
