@@ -1,21 +1,23 @@
 class Solution {
 public:
 bool ispossible(vector<int>& weights, int days,int n,int mid){
-    int count=1;
     int weight=0;
+    int count=1;
 
     for(int i=0; i<n; i++){
         if(weight+weights[i]<=mid){
             weight+=weights[i];
+            
         }else{
             count++;
-            if(count> days || weights[i]>mid) return false;
-            weight=weights[i];
+            if(count>days || weights[i]>mid)return false;
 
+            weight=weights[i];
         }
     }
     return true;
 }
+
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size();
         int sum=0;
