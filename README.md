@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RinkuSoni7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/RinkuSoni7/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Bubble Sort
 |  |
 | ------- |
