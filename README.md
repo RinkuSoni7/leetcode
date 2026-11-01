@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RinkuSoni7/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RinkuSoni7/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RinkuSoni7/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RinkuSoni7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RinkuSoni7/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RinkuSoni7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RinkuSoni7/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/RinkuSoni7/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RinkuSoni7/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RinkuSoni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RinkuSoni7/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RinkuSoni7/leetcode/tree/master/0724-find-pivot-index) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RinkuSoni7/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/RinkuSoni7/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/RinkuSoni7/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RinkuSoni7/leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/RinkuSoni7/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RinkuSoni7/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/RinkuSoni7/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RinkuSoni7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/RinkuSoni7/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RinkuSoni7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
