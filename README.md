@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RinkuSoni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/RinkuSoni7/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/RinkuSoni7/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/RinkuSoni7/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/RinkuSoni7/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/RinkuSoni7/leetcode/tree/master/0567-permutation-in-string) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RinkuSoni7/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/RinkuSoni7/leetcode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
@@ -844,10 +846,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RinkuSoni7/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RinkuSoni7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RinkuSoni7/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
